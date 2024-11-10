@@ -57,4 +57,4 @@ Budget Remaining: $1992.00
 Budget Per Day:  $99.60
 
 ## Future Work
-To improve this code, I would like to allow users to create their own categories. This will make the code much more versatile and similar to a real expense tracker. I would also like to have the program create a new CSV file each month. This will allow people to see a CSV of their purchases over time, not just during a monthly period. 
+To improve this code, I would like to allow users to create their own categories. This will make the program much more versatile and similar to a real expense tracker. I would also like to create a new CSV file each month. This will allow people to see a CSV of their purchases over time, not just during a monthly period. 
