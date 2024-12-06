@@ -21,40 +21,40 @@ The `Expenses` class, which is part of the `expenses.py` module, should be avail
 
 ## Usage
 
-Running expense tracker!
+    Running expense tracker!
+    
+    Welcome! Setting up your budget for the month.
+    
+    Enter your budget for this month: 2000
+    
+    Monthly budget set to $2000.00
+    
+    Getting User Expenses!
+    
+    Enter expense name: Sushi
+    
+    Enter expense amount: 8
+    
+    Select a Category: 
+      1. Food
+      2. Home
+      3. Work
+      4. Fun
+      5. Misc
+    Enter a Category Number [1 - 5]: 1
+    
+    Expense saved: <Expense: Sushi,8.00,Food>
 
-Welcome! Setting up your budget for the month.
+    Summarizing User Expense:
+    
+    Expenses by Category:
+      Food: $8.00
+      
+    Total Spent: $8.00
+    
+    Budget Remaining: $1992.00
 
-Enter your budget for this month: 2000
-
-Monthly budget set to $2000.00
-
-Getting User Expenses!
-
-Enter expense name: Sushi
-
-Enter expense amount: 8
-
-Select a Category: 
-  1. Food
-  2. Home
-  3. Work
-  4. Fun
-  5. Misc
-Enter a Category Number [1 - 5]: 1
-
-Expense saved: <Expense: Sushi,8.00,Food>
-
-Summarizing User Expense:
-
-Expenses by Category:
-  Food: $8.00
-  
-Total Spent: $8.00
-
-Budget Remaining: $1992.00
-
-Budget Per Day:  $99.60
+    Budget Per Day:  $99.60
 
 ## Future Work
 To improve this code, I would like to allow users to create their own categories. This will make the program much more versatile and similar to a real expense tracker. I would also like to create a new CSV file each month. This will allow people to see a CSV of their purchases over time, not just during a monthly period. 
